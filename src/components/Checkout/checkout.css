@@ -1,0 +1,7 @@
+.cartItemList{
+    display: flex;
+    flex-direction: column;
+}
+.cartItemList p{
+    margin-top: 5px;
+}
